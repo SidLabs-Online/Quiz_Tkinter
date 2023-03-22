@@ -1,37 +1,37 @@
 {
   "question": [
-    "Q1. What Indian city is the capital of two states?",
-    "Q2. Which city is the capital of India?",
-    "Q3. Smallest State of India?",
-    "Q4. Where is Taj Mahal Located?"
+    "Q1. The word 'Robot' is derived from which Czech word?",
+    "Q2. A robot is a ?",
+    "Q3. The key objective(s) of an Industrial robot is to ..",
+    "Q4. A robot designed with cartesian coordinate system has ..?"
   ],
   "answer": [
-    1,
     2,
     3,
-    2
+    4,
+    1
   ],
   "options": [
 
-    ["Chandigarh",
-      "Kolkata",
-      "Delhi",
-      "Bangalore"
+    ["Rabota",
+      "Robota",
+      "Rebota",
+      "Ribota"
     ],
-    ["Jaipur",
-      "Delhi",
-      "Chennai",
-      "Mumbai"
+    ["Programable machine",
+      "Multi Functional Manipulator",
+      "Both a abd b",
+      "None of the above"
     ],
-    ["Rajasthan",
-      "Punjab",
-      "Goa",
-      "Bihar"
+    ["Minimize human labour",
+      "Increase production",
+      "Enhance machine life",
+      "All of the above"
     ],
-    ["Lucknow",
-      "Agra",
-      "Bhopal",
-      "Delhi"
+    ["Three linear movements",
+      "Three rotational movements",
+      "Two linear and one rotational movement",
+      "Two rotational and one linear movement"
     ]
   ]
 }
