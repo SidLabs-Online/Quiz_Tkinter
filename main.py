@@ -1,25 +1,19 @@
-
 from tkinter import *
-
-# and import messagebox as mb from tkinter
 from tkinter import messagebox as mb
-
-#import json to use json file for data
 import json
 
-#class to define the components of the GUI
+#Class to define the components of the quiz 
 class Quiz:
-	# This is the first method which is called when a
-	# new object of the class is initialized. This method
-	# sets the question count to 0. and initialize all the
-	# other methoods to display the content and make all the
+	#This method
+	# sets the question count to 0. and initializes all the
+	# other methods and components to display the content and make all 
 	# functionalities available
 	def __init__(self):
 		
 		# set question number to 0
 		self.q_no=0
 		
-		# assigns ques to the display_question function to update later.
+		# assigns questions to the display_question function
 		self.display_title()
 		self.display_question()
 		
